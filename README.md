@@ -1,4 +1,4 @@
-# Proiect_Etapa2_POO
+# Project_POO
 
 ## **Banking Application - Enhanced Version**
 
@@ -8,7 +8,7 @@ OOP principles, design patterns, and JSON-based input/output for efficient opera
 
 ---
 
-## **Enhancements in Etapa 2**
+## **Enhancements**
 
 In the second phase of the project, several improvements were made to enhance the system's efficiency and maintainability:
 
@@ -109,5 +109,5 @@ In the second phase of the project, several improvements were made to enhance th
 
 ---
 
-**Harabagiu Daria Maria, 325CD**
+**Harabagiu Daria Maria**
 
